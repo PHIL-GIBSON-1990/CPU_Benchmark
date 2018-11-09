@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Benchmark.cpp
+  CPU_Benchmark.cpp
+  Generating code
+  All 243 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CPU_Benchmark.vcxproj -> D:\Visual Studio\CPU_Benchmark\x64\Release\CPU_Benchmark.exe

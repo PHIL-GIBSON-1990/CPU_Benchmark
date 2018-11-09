@@ -1,0 +1,5 @@
+﻿  CPU_Benchmark.cpp
+d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(249): warning C4101: 'Buffer': unreferenced local variable
+d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(259): warning C4101: 'n': unreferenced local variable
+d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(332): warning C4552: '/': result of expression not used
+  CPU_Benchmark.vcxproj -> D:\Visual Studio\CPU_Benchmark\Debug\CPU_Benchmark.exe
