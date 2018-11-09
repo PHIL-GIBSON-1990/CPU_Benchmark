@@ -1,0 +1,24 @@
+List of Things to Do
+
+1. Implement RAM usage graph
+2. Implement CPU usage graph
+3. Implement Sieve of Eratosthenes to generate prime numbers
+4. Implement single core integer benchmark with high cache hit rate
+5. Implement single core integer benchmark with high cache miss rate
+6. Implement multi-core integer benchmark with high cache hit rate
+7. Implement multi-core integer benchmark with high cache miss rate
+8. Implement single core floating point benchmark with high cache hit rate
+9. Implement single core floating point benchmark with high cache miss rate
+10. Implement multi-core floating point benchmark with high cache hit rate
+11. Implement multi-core floating point benchmark with high cache miss rate
+12. Implement Windows API benchmark
+13. Implement Windows API multi-tasking benchmark
+14. Implement single core integer multi-tasking benchmark with high cache hit rate
+15. Implement single core integer multi-tasking benchmark with high cache miss rate
+16. Implement multi-core integer multi-tasking benchmark with high cache hit rate
+17. Implement multi-core integer multi-tasking benchmark with high cache miss rate
+18. Implement single core floating point multi-tasking benchmark with high cache hit rate
+19. Implement single core floating point multi-tasking benchmark with high cache miss rate
+20. Implement multi-core floating point multi-tasking benchmark with high cache hit rate
+21. Implement multi-core floating point multi-tasking benchmark with high cache miss rate
+22. Implement benchmark result graphs
