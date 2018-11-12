@@ -1,11 +1,8 @@
-﻿  Benchmark.cpp
+﻿  stdafx.cpp
+  Benchmark.cpp
   CPU_Benchmark.cpp
-d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(211): warning C4244: '=': conversion from 'DWORDLONG' to 'int', possible loss of data
-d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(221): warning C4101: 'Buffer': unreferenced local variable
-d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(229): warning C4101: 'n': unreferenced local variable
+d:\visual studio\cpu_benchmark\cpu_benchmark\cpu_benchmark.cpp(212): warning C4244: '=': conversion from 'DWORDLONG' to 'int', possible loss of data
   Generating code
-  186 of 385 functions (48.3%) were compiled, the rest were copied from previous compilation.
-    160 functions were new in current compilation
-    10 functions had inline decision re-evaluated but remain unchanged
+  All 483 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   CPU_Benchmark.vcxproj -> D:\Visual Studio\CPU_Benchmark\x64\Release\CPU_Benchmark.exe
